@@ -1,1 +1,2 @@
 Step 1: Map reads with tophat
+Step 2: Assemble transcripts with cufflinks
